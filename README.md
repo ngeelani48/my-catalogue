@@ -36,7 +36,7 @@
 
 # 📖 My Catalogue <a name="about-project"></a>
 
- **My catalogue** is a console app that will help you to keep a record of different types of things you own: books, music albums, movies, and games.
+ **My catalog** is a console app that will help you to keep a record of different types of things you own: books, music albums, movies, and games.
 
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -96,7 +96,7 @@
 
 ### Prerequisites
 
-In order to run this project you need:
+To run this project you need:
 
 ### Setup
 
@@ -181,14 +181,14 @@ Feel free to check the [issues page](../../issues/).
 ## ⭐️ Show your support <a name="support"></a>
 
 
-If you like this project please drop a star :star
+If you like this project please drop a star: star
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse for inspiring this project idea.
+I want to thank Microverse for inspiring this project idea.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
